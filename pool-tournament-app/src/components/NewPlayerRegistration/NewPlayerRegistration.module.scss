@@ -1,0 +1,43 @@
+
+//@import '~@fluentui/react/dist/sass/References.scss';
+
+.onemanattSearchbutton {
+	border-width: 0px !important;
+  height: 50px !important; 
+  display: flex !important; 
+  align-items: center !important; 
+  background-color: #0e9e1f !important; 
+  color: "white" !important; 
+	font-family: var(--fontFamilyCustomFont100, Arial, Helvetica, sans-serif) !important;
+	font-size: var(--fontSizeBase300) !important;
+}
+
+.searchMagnifyIcon{
+  position: "absolute" !important;
+  padding-left: 11px !important;
+  padding-top: 2px !important;
+  width: 20px !important;
+  height: 20px !important;
+}
+
+.oneMnattSearchBarContainer {
+  padding-left: 30px !important;
+  display: "flex" !important;
+  align-items: "center" !important;
+  width: 100% !important;
+  padding-right: 20px !important;
+  max-width: 450px !important;
+  min-width: 369px !important;
+}
+
+.searchTopbar {
+  width: 200% !important;
+  text-indent: 40px !important;
+  height: 100% !important;
+	font-size: var(--fontSizeBase300) !important;
+}
+
+.searchArrowIcon {
+  width: 20px !important;
+  height: 20px !important;
+}
