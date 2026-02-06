@@ -9,7 +9,7 @@ export const samplePlayers = [
     },
     {
         PlayerID: 2,
-        FirstName: "Robert",
+        FirstName: "Frank",
         LastName: "Whitmer",
         StartingChips: 7,
         ChipCount: 4,
@@ -17,11 +17,20 @@ export const samplePlayers = [
     },
     {
         PlayerID: 3,
-        FirstName: "Robert",
-        LastName: "Whitmer",
+        FirstName: "Tiffany",
+        LastName: "Bowman",
         StartingChips: 7,
         ChipCount: 4,
         InGame: false
-    }];
+    },
+    {
+        PlayerID: 4,
+        FirstName: "Ralph",
+        LastName: "Bowman",
+        StartingChips: 7,
+        ChipCount: 4,
+        InGame: false
+    }
+];
 
 export default samplePlayers;

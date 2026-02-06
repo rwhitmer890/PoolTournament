@@ -12,6 +12,7 @@
   "dependencies": {
     "@fluentui/react-icons": "^2.0.318",
     "@progress/kendo-react-buttons": "^13.3.0",
+    "@progress/kendo-react-common": "^13.3.0",
     "@progress/kendo-react-data-tools": "^13.3.0",
     "@progress/kendo-react-grid": "^13.3.0",
     "@progress/kendo-theme-default": "^12.3.0",

@@ -2,7 +2,16 @@
 //@import '~@fluentui/react/dist/sass/References.scss';
 
 .PlayerVsPlayerContainer {
-
   text-align: center;
-  position: absolute;
+  display: block;
+}
+
+.PlayerContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.PlayerTitle{
+  padding-right: 20px
 }

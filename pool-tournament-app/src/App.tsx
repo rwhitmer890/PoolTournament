@@ -3,7 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import PoolPlayer from './components/PoolPlayer/PoolPlayer'
-import NewPlayerRegistration from './components/NewPlayerRegistration/NewPlayerRegistration'
+import TournamentPlayerList from './components/TournamentPlayerList/TournamentPlayersList'
 import PoolTableGame from './components/PoolTableGame/PoolTableGame'
 
 
@@ -14,7 +14,7 @@ function App() {
   return (
     <>
       <div>
-        <NewPlayerRegistration></NewPlayerRegistration>
+        <TournamentPlayerList></TournamentPlayerList>
         <PoolPlayer></PoolPlayer>
         <PoolPlayer></PoolPlayer>
         <PoolTableGame></PoolTableGame>

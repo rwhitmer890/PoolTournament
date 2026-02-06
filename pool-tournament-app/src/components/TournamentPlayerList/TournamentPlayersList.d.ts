@@ -1,5 +1,5 @@
 
-declare module 'NewPlayerRegistration.module.scss' {
+declare module 'TournamentPlayersList.module.scss' {
   const classes: { [key: string]: string };
   export default classes;
 }
